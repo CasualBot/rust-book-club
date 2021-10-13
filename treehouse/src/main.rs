@@ -65,7 +65,7 @@ fn main() {
             } 
 
             println!("{} is not on the visitor list.", name);
-            visitor_list.push(Visitor::new(&name, "New friend"));
+            visitor_list.push(Visitor::new(&name, "New friend", VisitorAction::Probation, 30));
         }
     }
     println!("The final list of visitors:");
