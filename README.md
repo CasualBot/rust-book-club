@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/41388cf5-199b-46ef-ba4b-9d69e0dda390/project/d59d5801-d2ad-4e7b-8b78-de9834552cfc.svg)](https://wakatime.com/badge/user/41388cf5-199b-46ef-ba4b-9d69e0dda390/project/d59d5801-d2ad-4e7b-8b78-de9834552cfc)
 # Rust Book Club
 ### Learning rust with the ubi crew!
 
