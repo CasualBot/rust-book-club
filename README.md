@@ -7,8 +7,8 @@ We meet every Monday at lunch (CST)!
 
 - [X] 1 - Rust and Your development environment
 - [X] 2 - First steps with rust
-- [ ] 3 - Build your first game with rust
-- [ ] 4
+- [X] 3 - Build your first game with rust
+- [ ] 4 - Building a Dungeon Crawler
 - [ ] 5
 - [ ] 6
 - [ ] 7
