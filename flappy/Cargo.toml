@@ -8,3 +8,4 @@ authors = ["Shawn Bernard <casualbotdev@gmail.com>"]
 
 [dependencies]
 bracket-lib = "~0.8.1"
+bracket-terminal = "~0.8.5"
